@@ -1,0 +1,6 @@
+[book]
+authors = ["Elie Gavoty"]
+language = "en"
+multilingual = false
+src = "src"
+title = "testmdbook"
